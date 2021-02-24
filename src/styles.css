@@ -12,7 +12,7 @@ main {
   .searchBtn {
     padding: 10px;
   }
-  .overlay {
+ /*  .overlay {
     position: absolute;
     top: 0;
     left: 0;
@@ -22,7 +22,7 @@ main {
     background-color: black;
     opacity: 0.2;
     z-index: 1;
-  }
+  } */
   
   video {
     border-radius: 3%;
